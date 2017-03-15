@@ -1,4 +1,4 @@
-From https://people.csail.mit.edu/hubert/pyaudio/
+# From https://people.csail.mit.edu/hubert/pyaudio/
 
 """PyAudio example: Record a few seconds of audio and save to a WAVE file."""
 
